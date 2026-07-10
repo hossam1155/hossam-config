@@ -2,6 +2,6 @@
   "apiUrl": "https://hossam1155-lost-found.odoo.com",
   "latestVersion": "1.0.0",
   "downloadUrl": "https://drive.google.com/drive/u/0/folders/1ifVRaz9bD8EKdO7nPjTrJ6fJvDCkscBl/lost-found-latest.apk",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "maintenanceMode": false
 }
