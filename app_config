@@ -2,6 +2,6 @@
   "apiUrl": "https://hossam1155-lost-found.odoo.com",
   "latestVersion": "2.0.0",
   "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFCmt1oPXvgD3VuKzmKoE075PTS0EQPJ",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "maintenanceMode": false
 }
