@@ -1,6 +1,6 @@
 {
   "apiUrl": "https://lost-found.odoo.com/",
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFCmt1oPXvgD3VuKzmKoE075PTS0EQPJ",
   "forceUpdate": true,
   "maintenanceMode": false
